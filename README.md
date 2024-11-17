@@ -2,8 +2,8 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML,CSS,JAVA SCRIPT
 - 📫 How to reach me malasanimanojkumar222@gmail.com
-- 
-- 
+  
+  
 
 <!---
 manojkumarmalasani/manojkumarmalasani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
